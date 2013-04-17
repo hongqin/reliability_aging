@@ -1,4 +1,5 @@
-# 2013 April 16
+# 2013 April 17, perfect repair
+
 # Compare power-law, poisson, and regular network model of aging. 
 
 rm(list=ls());
